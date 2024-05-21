@@ -3,7 +3,7 @@
 AstroArena is an educational game crafted with passion for the Swift Student Challenge 2024. Featuring stunning 3D representations of solar system components, players embark on a journey of discovery, learning about celestial bodies through descriptions and quizzes. AstroArena offers an immersive learning experience for anyone fascinated by space exploration.
 <img width="1512" alt="AstroArena Banner" src="https://github.com/itsalessandroricci/AstroArena/assets/120020257/7e312f2c-aae5-4630-b6bb-b40c0c540cf7">
 
-![Static Badge](https://img.shields.io/badge/Swift_Version-5.9-green?style=flat&logo=swift)
+![Static Badge](https://img.shields.io/badge/XCode_Version-15.0-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.9-green?style=flat&logo=swift)
 
 ## Contents
 
