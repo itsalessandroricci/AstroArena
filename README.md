@@ -46,5 +46,3 @@ AstroArena is a personal project developed by:
 
 - Alessandro Ricci
    **App Developer** (https://github.com/itsalessandroricci)
-
-
